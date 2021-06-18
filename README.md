@@ -5,7 +5,7 @@ ZBC also known as Zenklub Back-end Challenge is a simple API Restful project to 
 
 ### 🔥 Running the project
 1. First of all, make sure you have [Node.js (LTS)](https://nodejs.org/en/) installed already :)
-2. Clone this repository running `git clone https://github.com/josecls/zbc.git`
+2. Clone this repository running `git clone https://github.com/josecls404/zbc.git`
 3. Install all dependencies with the command `npm install` inside the project folder
 4. Run the project with the following command `npm run start` and have fun!
 5. See how to test using postman/insomnia (optional but easier)
