@@ -11,7 +11,7 @@ ZBC also known as Zenklub Back-end Challenge is a simple API Restful project to 
 5. See how to test using postman/insomnia (optional but easier)
 
 ### 🤖 Requests examples
-I organized sample data for request tests. In case you use Postman or Insomnia you're gonna enjoy it. The import file is available in the email I sent and you can load it inside Postman or Insomnia and request all endpoints by one click. Feel free to modify the data.
+I organized sample data for request tests. In case you use Postman or Insomnia you're gonna enjoy it. The import file is available in the email I sent and you can [load it inside Postman](https://kb.datamotion.com/?ht_kb=postman-instructions-for-exporting-and-importing) or Insomnia and request all endpoints by one click. Feel free to modify the data.
 
 ### 💡 Scripts
 - `npm run start` starts the application (production mode)
